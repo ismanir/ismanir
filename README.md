@@ -4,7 +4,7 @@
 
 [![Twitter Badge](http://img.shields.io/badge/-@ismnirwn-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/ismnirwn)](https://twitter.com/ismnirwn) [![GitHub followers](https://img.shields.io/github/followers/ismanir?label=Follow&style=social)](https://github.com/ismanir/?tab=follow)
 [![Instagram Badge](https://img.shields.io/badge/-ismanirawan-blue?style=social&logo=Instagram&link=https://www.instagram.com/ismanirawan/)](https://www.instagram.com/ismanirawan/) 
-[![Facebook Badge](https://img.shields.io/badge/-ismnirwn-blue?style=social&logo=facebook&link=https://www.facebook.com/lordshinjo/)](https://www.facebook.com/lordshinjo/) 
+[![Facebook Badge](https://img.shields.io/badge/-ismnirwn-blue?style=social&logo=facebook&link=https://www.facebook.com/ismnirwn/)](https://www.facebook.com/ismnirwn/) 
 ![visitors](https://hit-badger.glitch.me/badge?page_id=ismanir.ismanir)
  </div>
 
