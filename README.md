@@ -23,7 +23,8 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ismanir&title_color=555&text_color=777&show_icons=true&icon_color=333)](https://github.com/ismanir)
 
 <br>
-<img src="https://github.com/ismanir/ismanir/blob/master/images/stat.svg" alt="Stats"/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
