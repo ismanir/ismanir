@@ -32,7 +32,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 2 Contributions in the Year 2021
+> 🏆 3 Contributions in the Year 2021
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
